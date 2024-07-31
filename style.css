@@ -1,0 +1,50 @@
+.homepage {
+    background-color: #f4eee0;
+    color: #a66d45;
+    font-family: 'Outfit', sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: #f4eee0;
+    color: #a66d45;
+    font-family: 'Outfit', sans-serif;
+}
+
+.quote {
+    font-size: 30px;
+}
+
+.row {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.column {
+    flex: 33.33%;
+}
+
+.sample {
+    width: 100%;
+    max-height: 75vh;
+    height: 300px;
+}
+
+.profile {
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.rolemodel {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
